@@ -7,7 +7,7 @@ How to measure differences between colors that near linear to human perception.
 
 ## Including:
 - CIE Delta Lab / CIE E76 / dE76: Simple, error prone
-- CIE Delta E2000 / CIEDE2000 / dE00: Slight complicated, more accurate
+- CIE Delta E2000 / CIEDE2000 / dE00: Slightly complicated, more accurate
 
 ## Perception ranges:
 - Larger deltas means more noticeable
@@ -32,5 +32,5 @@ How to measure differences between colors that near linear to human perception.
 ## Reference:
 - http://zschuessler.github.io/DeltaE/learn/
 - https://www.wikiwand.com/en/Color_difference
-- Sharma 2005
+- [Sharma 2005](https://onlinelibrary.wiley.com/doi/abs/10.1002/col.20070)
 - http://www.colorwiki.com/wiki/Delta_E:_The_Color_Difference
